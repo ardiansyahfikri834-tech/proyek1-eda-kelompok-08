@@ -1,7 +1,7 @@
 # Proyek 1 EDA — Smart City: Bike Sharing
 
 ## Judul Analisis
-**Analisis Data Penyewaaan Sepeda sebagai Bagian dari Smart City)**
+**Analisis Data Penyewaan Sepeda sebagai Bagian dari Smart City**
 
 ## Topik
 Smart City — transportasi publik / bike sharing.
